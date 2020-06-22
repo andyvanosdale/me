@@ -1,34 +1,43 @@
-# Andrew Vanosdale
+# Andy Vanosdale
 
-| Medium                    | Contact                                         |
-| ------------------------- | ----------------------------------------------- |
-| E-mail                    | [andy@vanosdale.com](mailto:andy@vanosdale.com) |
-| Phone | [+1 (206) 617-3349](tel:+12066173349)                              |
-|LinkedIn|[https://linkedin.com/in/enozero](https://linkedin.com/in/enozero)|
-|GitHub|[https://github.com/enozero](https://github.com/enozero)|
+| Medium   | Contact                                                                        |
+| -------- | ------------------------------------------------------------------------------ |
+| E-mail   | [andy@vanosdale.com](mailto:andy@vanosdale.com)                                |
+| Phone    | [+1 (206) 617-3349](tel:+12066173349)                                          |
+| LinkedIn | [https://linkedin.com/in/andyvanosdale](https://linkedin.com/in/andyvanosdale) |
+| GitHub   | [https://github.com/andyvanosdale](https://github.com/andyvanosdale)           |
+| Twitter  | [https://twitter.com/andyvanosdale](https://twitter.com/andyvanosdale)         |
 
 ## Summary
 
-Solution architect and software engineer with over 15 years of experience from independent contractor of web apps and backends, consumer mobile apps used by millions of people all over the world, and event-driven supply chain systems delivering goods quickly to customers.
+Solution architect and software engineer with over 15 years of experience with web apps and backends, consumer mobile apps, and event-driven supply chain systems, all in full-time and independent contractor positions.
 
 ## Professional Experience
+
+### Software Engineer
+
+November 2019 - Present * Nordstrom * Seattle, WA
+
+* Architected 14 micro service system to event-drive translation of messages to third-party warehouse system
+* Team lead of 6 junior and senior engineers and separate contracting agency to develop system
+* Reviewed third-party functional and interface specifications
 
 ### Co-Owner/Real Estate Investor
 
 November 2018 – Present * Pioneer Ridge Properties, LLC * Seattle, WA; Chattanooga, TN
 
-*	Owner of 22 units, 10 multi-family houses, $1.2M in assets, $13k MRR
-*	Building React and NextJS web app to manage current and potential property details and deals
+*	Owner of 26 units, 11 multi-family houses, $1.4M in assets, $16k MRR
+*	Building web app to manage current and potential properties and deals
 
 ### Founder/Chief Engineer
 
 August 2018 – Present * WAVIISoft, LLC * Seattle, WA
 
-*	Contracted to fitness CRM company to add new functionality to native Android and iOS applications
+*	Contracted to fitness CRM company to add functionality to existing native Android and iOS applications
 
 ### Consultant/Principal Lead Software Architect and Engineer
 
-March 2018 – Present * LIFFFT, Inc./PeloTech * Seattle, WA
+March 2018 – November 2019 * LIFFFT, Inc./PeloTech * Seattle, WA
 
 *	Contracted to retail company to design and build solutions for dropship and supply chain issues
 *	Architecting event-driven system processing inbound and outbound messages for new omnichannel facility
@@ -74,9 +83,21 @@ November 2007 – June 2012 * Microsoft Corporation * Redmond, WA
 *	Designed and architected new e-mail application that componentized areas for easy feature development
 *	Designed, architected, and led team of developers to deliver conversation view feature
 *	Debugged issues at C++ and assembly level and widely respected by team for debugging
+
+### Software Development Engineer in Test – Office
+
+May 2006 – November 2007 * Microsoft Corporation * Redmond, WA
+
+### Software Development Engineer in Test Intern – Office
+
+May 2005 – August 2005 * Microsoft Corporation * Redmond, WA
+
+### Software Test Engineer – Windows Media Center, Microsoft
+
+February 2004 – August 2004 * Volt Technical Services * Redmond, WA
  
 ## Software Development Experience
-Java, Kafka, Kubernetes, GitLab CI/CD, Terraform, AWS (Lambda, SQS), Ruby, Ruby on Rails, Kotlin, Swift, JavaScript, C#, HTML5, CSS, Objective-C, React, React Native, Go, NodeJS, C++
+Java, Kafka, Kubernetes, GitLab CI/CD, Terraform, AWS, Javascript, Ruby, Ruby on Rails, Kotlin, Swift, C#, HTML5, CSS, Objective-C, React, React Native, Go, NodeJS, C++
 
 ## Education
 
