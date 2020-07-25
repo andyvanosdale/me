@@ -10,17 +10,20 @@
 
 ## Summary
 
-Solution architect and software engineer with over 15 years of experience with web apps and backends, consumer mobile apps, and event-driven supply chain systems, all in full-time and independent contractor positions.
+Solution architect, team lead, software engineer, and consulting business owner with over 15 years of professional experience with web apps and backends, consumer mobile apps, and event-driven supply chain systems, all in full-time and independent contractor positions.
 
 ## Professional Experience
 
 ### Software Engineer
 
-November 2019 - Present * Nordstrom * Seattle, WA
+November 2019 - Present / Nordstrom / Seattle, WA
 
-* Architected 14 micro service system to event-drive translation of messages to third-party warehouse system
-* Team lead of 6 junior and senior engineers and separate contracting agency to develop system
-* Reviewed third-party functional and interface specifications
+* Architected event-driven system to translate events between third-party warehouse system
+* System comprised of over 22 micro services and background jobs with 5 separate environments (testing and production)
+* System running on Kubernetes and continuously deployed via GitLab runners and Terraform
+* Team lead of 6 junior and senior engineers and separate contracting agency to develop system in one year
+* Reviewed third-party functional and interface specifications for warehouse management and execution systems
+* Chosen as a design advocate to review other teams' projects to ensure consistent standards adherance
 
 ### Co-Owner/Real Estate Investor
 
@@ -95,7 +98,32 @@ May 2005 – August 2005 / Microsoft Corporation / Redmond, WA
 ### Software Test Engineer – Windows Media Center, Microsoft
 
 February 2004 – August 2004 / Volt Technical Services / Redmond, WA
- 
+
+* Supported end-user testers for Windows Media Center
+* Customized computers for Microsoft executives
+* Built ASP.NET web application for summer intern to track metrics from testing programs
+
+### Technical Liaison
+
+May 2002 - May 2010 / Tennessee Future Business Leaders of America / Nashville, TN
+
+* Built and maintained ASP.NET web application to register student competitors for state conventions
+* Built and maintained PowerPoint add-on to build contest placement slide deck from scoring database
+
+### IT Specialist and Software Engineer
+
+May 2002 - November 2005 / East Ridge High School / East Ridge, TN
+
+* Built and maintained ASP web application to track student discipline issues across school
+* Maintained teacher and administration computers
+* Advised on technology purchases
+
+### Computer Support Engineer
+
+May 2001 - August 2001 / Hamilton County Department of Education / Chattanooga, TN
+
+* Supported county school system computers and network across dozens of schools
+
 ## Software Development Experience
 Java, Kafka, Kubernetes, GitLab CI/CD, Terraform, AWS, Javascript, Ruby, Ruby on Rails, Kotlin, Swift, C#, HTML5, CSS, Objective-C, React, React Native, Go, NodeJS, C++
 
